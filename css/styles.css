@@ -80,6 +80,14 @@ p {
     text-align: center;
 }
 
+.portfolio{
+    text-align: center;
+}
+
+.manager-color{
+    background-color: #fff;
+}
+
 .section-second{
     background-color: #f4f4fd;
 }
