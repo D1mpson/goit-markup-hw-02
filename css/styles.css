@@ -50,12 +50,31 @@ p {
     color: #4D5AE5;
 }
 
-.nav-list {
+.nav-ul {
     color: #2e2f42;
 }
 
+.nav-a {
+    color: #2e2f42;
+}
+
+.nav-a:hover,
+.nav-a:focus {
+    color: #4D5AE5;
+}
+
+
 .address {
     color: #434455;
+}
+
+.address-link{
+    color: #2e2f42;
+}
+
+.address-link:hover,
+.address-link:focus{
+    color: #4D5AE5;
 }
 
 .title{
