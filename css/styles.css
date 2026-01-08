@@ -1,0 +1,93 @@
+header{
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+a {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.logo-header {
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    color: #2e2f42;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+}
+
+.logo-footer {
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    color: #F4F4FD;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+}
+
+.accent{
+    color: #4D5AE5;
+}
+
+.nav-list {
+    color: #2e2f42;
+}
+
+.address {
+    color: #434455;
+}
+
+.title{
+    background-color: #2e2f42;
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    font-size: 56px;
+}
+
+.order-service-button{
+    background-color: #4d5ae5;
+    color: #fff;
+    cursor: pointer;
+}
+
+.our-team{
+    text-align: center;
+}
+
+.managers{
+    text-align: center;
+}
+
+.section-second{
+    background-color: #f4f4fd;
+}
+
+.footer{
+    background-color: #2e2f42;
+}
+
+.footer-text{
+    color: #fff;
+}
