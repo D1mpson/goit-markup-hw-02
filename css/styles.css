@@ -1,10 +1,6 @@
-header{
-    font-family: "Roboto", sans-serif;
-}
-
 body {
     font-family: "Roboto", sans-serif;
-    color: #434455;
+    color: #fff;
     background-color: #ffffff;
 }
 
@@ -18,13 +14,19 @@ a {
     text-decoration: none;
 }
 
-
-
 p {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    color: #434455;
+}
+
+h2{
+    color: #434455;
+}
+
+h3{
     color: #434455;
 }
 
@@ -37,18 +39,10 @@ p {
     letter-spacing: 0.03em;
 }
 
-.logo-footer {
-    text-transform: uppercase;
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    color: #F4F4FD;
-    font-size: 18px;
-    letter-spacing: 0.03em;
-}
-
 .accent{
     color: #4D5AE5;
 }
+
 
 .nav-ul {
     color: #2e2f42;
@@ -56,6 +50,7 @@ p {
 
 .nav-a {
     color: #2e2f42;
+    font-family: "Roboto", sans-serif;
 }
 
 .nav-a:hover,
@@ -81,8 +76,6 @@ p {
     background-color: #2e2f42;
     color: #fff;
     text-align: center;
-    font-weight: 700;
-    font-size: 56px;
 }
 
 .order-service-button{
@@ -113,6 +106,15 @@ p {
 
 .footer{
     background-color: #2e2f42;
+}
+
+.logo-footer {
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    color: #F4F4FD;
+    font-size: 18px;
+    letter-spacing: 0.03em;
 }
 
 .footer-text{
